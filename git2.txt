@@ -1,1 +1,1 @@
-This is git2.txt file. 
+This is second github file,Every ambition needs preparation. 
